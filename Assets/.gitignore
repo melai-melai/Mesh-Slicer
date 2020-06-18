@@ -1,5 +1,8 @@
+Scenes
 Prefabs
 Materials
+
+Scenes.meta
 
 !Scripts/**/*.meta
 !Scripts/**/*.cs
